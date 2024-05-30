@@ -1,6 +1,6 @@
 # Taskflow
 
-[Taskflow](https://taskflow-self.vercel.app/) is a versatile productivity app that integrates various functionalities within a unified platform, catering to individual, team, and business workflows. With an array of features, it offers a seamless experience for creating documents, wikis, project boards, notes, and more.
+Taskflow is a versatile productivity app that integrates various functionalities within a unified platform, catering to individual, team, and business workflows. With an array of features, it offers a seamless experience for creating documents, wikis, project boards, notes, and more.
 
 ## Key Features
 
@@ -62,6 +62,4 @@ For contribution instructions, refer to the [Contribution Guide](./CONTRIBUTION.
 
 This website is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-If you have any questions or feedback, feel free to reach out to us at <27manavgandhi@gmail.com>. We're excited to hear from you and make this project even better!
